@@ -1,0 +1,21 @@
+{
+  "name": "etec-demanda-dados",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.2",
+    "tsx": "^4.7.1"
+  },
+  "dependencies": {
+    "cheerio": "1.0.0-rc.12",
+    "node-xlsx": "^0.23.0"
+  }
+}
